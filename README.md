@@ -14,6 +14,7 @@ npm install
 cd client
 npm install
 npm run dev
+```
 
 # How It Works
 
@@ -26,4 +27,4 @@ npm run dev
 
 ## 📸 Screenshots
 
-![App Screenshot](./client/outputscreenshots/output-screen.png)
+./client/outputscreenshot/output-screen.png 
